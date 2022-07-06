@@ -1,0 +1,28 @@
+{
+  "name": "@davide-demos/armando-logger",
+  "version": "1.0.0",
+  "description": "Il logger più bello del mondo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "nodejs",
+    "chalk"
+  ],
+  "author": "Davide D'Antonio <davide.dantonio@webeetle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidedantonio/armando-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidedantonio/armando-logger/issues"
+  },
+  "homepage": "https://github.com/davidedantonio/armando-logger#readme"
+}
